@@ -10,5 +10,6 @@ The one thing to note is the chromedriver has to be downloaded from this website
 * Once downloaded, make sure you do not rename chromedriver.exe and place it within the same folder of the python code.
 * You can specify the image name you want to scrape, the number of images you want, and the delay time for selenium to click on the google images.
 * Make sure the delay time is not too brief!
+* Make sure to use pip to install needed packages for the code to work, these packages' name are on the requirement.txt file.
 
 ## Wish you all the best and happy New Year and happy scraping!!!
